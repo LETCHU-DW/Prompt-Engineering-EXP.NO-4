@@ -39,6 +39,51 @@ Everyday Functioning Prompts:
  
   “How is encryption used in daily life when sending WhatsApp messages?”
 
-  OUTPUT:
+OUTPUT:
+## Comparative Analysis Prompt 
+Explanation:
+ A Comparative Analysis Prompt asks the AI to compare two or more items based on specific criteria such as features, advantages,disadvantages, or performance.
 
-  RESULT:
+Use Case 1 – AI Tools Comparison
+
+Prompt:
+“Compare ChatGPT and Gemini based on features, accuracy, usability, and common applications. Present the comparison in a table format.”
+
+Use Case 2 – Technology Comparison
+
+Prompt:
+“Compare electric vehicles and petrol vehicles in terms of cost, environmental impact, maintenance, and efficiency.”
+
+## Experiential Perspective Prompt
+
+Explanation:
+An Experiential Perspective Prompt asks the AI to respond from a specific viewpoint or role, such as a student, teacher, engineer, or user. It focuses on personal experience or perspective.
+
+Use Case 1 – Student Perspective
+
+Prompt:
+“Explain how generative AI tools help students in learning and completing assignments from the perspective of a college student.”
+
+Use Case 2 – Teacher Perspective
+
+Prompt:
+“Describe the advantages and challenges of using AI tools in education from the perspective of a teacher.”
+
+## Everyday Functioning Prompts 
+
+Explanation:
+An Everyday Functioning Prompt focuses on practical daily-life applications, asking AI to explain how something works or how it is used in routine activities.
+
+Use Case 1 – Digital Payments
+
+Prompt:
+“Explain how UPI digital payment systems work in everyday transactions such as paying in shops or sending money to friends.”
+
+Use Case 2 – Smart Home Devices
+
+Prompt:
+“Explain how smart home assistants like voice-controlled devices help people perform everyday tasks such as setting reminders, controlling lights, and checking weather.”
+
+RESULT:
+
+The prompts generated clear and useful responses. Comparative prompts helped compare different technologies, experiential prompts gave responses from a specific perspective, and everyday functioning prompts explained how technologies are used in daily life. Overall, these prompts improved clarity and understanding of the topic.
